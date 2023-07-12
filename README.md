@@ -2,7 +2,8 @@
 I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Computer Science and minoring in Business and Computational Mathematics! I aspire to do a doctorate degree towards systems research, preferably in the field of High Performance Computing.
 
 ### Projects
-* 
+* **Python TUI Bank Application**
+*   *
 
 <!--
 **mochiiten9158/mochiiten9158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
