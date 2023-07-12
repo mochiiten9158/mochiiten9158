@@ -1,4 +1,4 @@
-### About
+# About
 I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Computer Science and minoring in Business and Computational Mathematics! I aspire to do a doctorate degree towards systems research, preferably in the field of High Performance Computing.
 
 ### Projects
