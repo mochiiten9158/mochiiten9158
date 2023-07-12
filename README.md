@@ -1,7 +1,7 @@
 # About
 I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Computer Science and minoring in Business and Computational Mathematics! I aspire to do a doctorate degree towards systems research, preferably in the field of High Performance Computing.
 
-### Projects
+# Projects
 * **Python TUI Bank Application**
     * I created a TUI Bank application using psycopg2 and Python. The Banking Application possessed a database made on postgres and pgadmin4 which could be accessed by customers, bank managers and tellers to perform functions such as adding accounts, deleting accounts and cash withdrawals, deposits and transfers.
 * **Android Weather App and Android News App**
@@ -9,7 +9,7 @@ I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Compute
 * **Java Game: Race Between Two Campuses**
      * I, along with a team of students (Ryan Ciminski, Olivia Debenedictis, Matthew Horowitz) created a game map similar to chutes and ladders, coded for a three-class project with application of concepts like exception handling, object oriented programming and inheritance.
 
-### Work Experience
+# Work Experience
 * **Undergraduate Research Assistant (January 2023 - May 2023)**
      * The research was done under the supervision and guidance of Dr. Zhiling Lan. Work done during the Spring semester of 2023 under CS497 was to understand technologies in Parallel Discrete Event Simulations (PDES) and work with them to learn about High Performance Computing and job scheduling. The two technologies that were primarily investigated and learned from were CODES Discrete Event Simulation Framework and CQSIM一a discrete event driven scheduling simulator.
      * What I really enjoyed with this experience was it made me interested in High Performance Computing research, and I hope to continue in the same field in the near future.
@@ -20,7 +20,7 @@ I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Compute
      * I collaborated with an internal Carefirst Team consisting of 20 memebers including healthcare professionals as well as data scientists to prepare .html files and excel databases to evaluate the quality of medical practitioners and systems based on CMS measures. I addressed the issue of efficiency and correctness in entering data in the excel database so as to obtain accurate results. I received training for and worked with the MAT tool, VSAT tool and advanced Excel functions to work with various measure attributes and conditions to create automated .xlxs files
      * One key takeaway from the experience was the extent to which I required my previous knowledge of biology to be able to effectively contribute towards designing an efficient database system, and it really highlighted the importance of having interdisciplinary knowledge. Overall, a very rewarding experience!
 
-###Interests and Future Goals
+# Interests and Future Goals
 In my free time, I rather enjoy reading academic papers on various topics. I am currently trying to read more papers regarding HPCs in order to gain more knowledge about them. Apart from papers, I enjoy playing video games and listening to classical music!
 <!--
 **mochiiten9158/mochiiten9158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
