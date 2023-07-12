@@ -4,6 +4,10 @@ I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Compute
 ### Projects
 * **Python TUI Bank Application**
     * I created a TUI Bank application using psycopg2 and Python. The Banking Application possessed a database made on postgres and pgadmin4 which could be accessed by customers, bank managers and tellers to perform functions such as adding accounts, deleting accounts and cash withdrawals, deposits and transfers.
+* **Android Weather App and Android News App**
+     * I created a Weather App in Android Studio that utilizes real time weather information from an external API source to display real time weather for any part of the world, along with weather icons imported using a local library. The Weather App I built displayed weather information for not only the same day but also up to the next 15 days, with display options in the metric as well as other systems. The News app displayed all news sources from an external API that allowed users to choose news articles from a specific source for a specific topic. The titles and articles itself are stored and displayed using an Adapter and View Holder, while the list of available sources and topics are accessed using Hash Maps that are used to navigate between articles.
+* **Java Game: Race Between Two Campuses**
+     * I, along with a team of students (Ryan Ciminski, Olivia Debenedictis, Matthew Horowitz) created a game map similar to chutes and ladders, coded for a three-class project with application of concepts like exception handling, object oriented programming and inheritance.
 * 
 
 <!--
