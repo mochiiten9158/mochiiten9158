@@ -3,7 +3,8 @@ I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Compute
 
 ### Projects
 * **Python TUI Bank Application**
-*   *
+    * I created a TUI Bank application using psycopg2 and Python. The Banking Application possessed a database made on postgres and pgadmin4 which could be accessed by customers, bank managers and tellers to perform functions such as adding accounts, deleting accounts and cash withdrawals, deposits and transfers.
+* 
 
 <!--
 **mochiiten9158/mochiiten9158** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
