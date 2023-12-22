@@ -2,6 +2,10 @@
 I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Computer Science and minoring in Business and Computational Mathematics! I aspire to do a doctorate degree towards systems research, preferably in the field of High Performance Computing.
 
 # Projects
+* **HawkPhish**
+    * I, along with my team consisting of John Deifel, Kaleb Austgen, Verica Karanakova, Alyssa Cao, Na'im Mohammed, Mohammed Trigui, Harrison Le, Emmanuel Gonzalez, Ricky Madrid Quiles, Katherine Prush, Kathleen Monahan, Lucas Costa-Wang, Jiachen Wang and Rodney Fears under the guidance of Dr. Rahul Patel created a cybersecurity solution that works as a chrome extension that scans malicious links and stores them in an Azure SQL database. I worked in creation and management of databases and performing analytics/statistics on real world data. I contributed to establishing end-to-end connection between frontend and backend, and contributed towards encryption of data and garbage collection.
+* **Lottery Scheduler, Multi-Level Paging, Threading and System Calls**
+    * I modified a research OS in xv6 to enable new and customized system calls and implement multilevel paging, threading and scheduling. I created an OS CPU Scheduler in C that assigns each running process with a specific resource time of the processor directly proportional to the number of tickets it has. Event scheduling is random based on a linear congruential generator algorithm (LCG) where a linear equation is used to determine which event “wins” the lottery to be assigned processor time.
 * **Python TUI Bank Application**
     * I created a TUI Bank application using psycopg2 and Python. The Banking Application possessed a database made on postgres and pgadmin4 which could be accessed by customers, bank managers and tellers to perform functions such as adding accounts, deleting accounts and cash withdrawals, deposits and transfers.
 * **Android Weather App and Android News App**
@@ -13,7 +17,7 @@ I am Shambhawi Sharma (she/her), a fourth year undergraduate majoring in Compute
 * **Undergraduate Research Assistant (January 2023 - May 2023)**
      * The research was done under the supervision and guidance of Dr. Zhiling Lan. Work done during the Spring semester of 2023 under CS497 was to understand technologies in Parallel Discrete Event Simulations (PDES) and work with them to learn about High Performance Computing and job scheduling. The two technologies that were primarily investigated and learned from were CODES Discrete Event Simulation Framework and CQSIM一a discrete event driven scheduling simulator.
      * What I really enjoyed with this experience was it made me interested in High Performance Computing research, and I hope to continue in the same field in the near future.
-* **Undergraduate Teaching Assistant (January 2022 - May 2023)**
+* **Undergraduate Teaching Assistant (January 2022 - Dec 2023)**
      * I taught and helped students in the classroom understand basic programming concepts in Java. Required experience with teaching and reviewing course material of the week and explaining concepts of data structures in Java. Developed leadership, communication and problem-solving skills to better help students.
      * It's really lots of fun to hear the various ways others approach a certain problem, and it was a really interactive and enjoyable experience to be involved as a teaching assistant!
 * **CRA Intern at FIGmd (May 2022 - August 2022)**
