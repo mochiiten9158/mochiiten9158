@@ -36,9 +36,9 @@ Designed a C-based OS CPU Scheduler with random event scheduling deploying the L
    * Assessed medical practitioners and systems with 10,000+ entries with measures from CMS.gov, enhanced database efficiency and accuracy, collaborating with a team of 20 members to build HTML files and Excel/SQL databases
    * Utilized proprietary technologies MAT and VSAT, endorsed by CMS.gov, SQL and advanced Excel functions
 * **Project Consultant and Teaching Assistant at JP Morgan Chase and Co., P33 Chicago, Illinois Tech**
-* Jan ’22 - May ’24
-* Mentored and managed full-cycle development of 4 banking applications, including frontend and backend, by introducing technologies (MySQL, Wordpress, Android Studio, Eclipse) and debugging with a total of ~30-40 students
-* Solved problems related to frontend design, backend efficiency and functionality through mentoring teams of 6 students and brainstorming solutions through market/technical research and interviews of experts at JPMC
+   * Jan ’22 - May ’24
+   * Mentored and managed full-cycle development of 4 banking applications, including frontend and backend, by introducing technologies (MySQL, Wordpress, Android Studio, Eclipse) and debugging with a total of ~30-40 students
+   * Solved problems related to frontend design, backend efficiency and functionality through mentoring teams of 6 students and brainstorming solutions through market/technical research and interviews of experts at JPMC
 
 # Interests and Future Goals
 In my free time, I rather enjoy reading academic papers on various topics. I am currently trying to read more papers regarding HPCs in order to gain more knowledge about them. Apart from papers, I enjoy playing video games and listening to classical music!
