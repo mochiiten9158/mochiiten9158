@@ -1,6 +1,5 @@
 # About
-I am a first year PhD student at UIC under the mentorship of Dr. Zhiling Lan.
-I am passionate about High-Performance Computing (HPC) and am exploring the creation of systems that combine Agent-Based Modeling and DES, along with the creation of a Digital Twin within the ALCF project SEEr-Polaris. I also plan on focusing on current problems related to energy use in the creation and management of supercomputers, and developing new algorithms to address these issues.
+I am a second year PhD student.
 
 # Projects
 * **HawkPhish**
